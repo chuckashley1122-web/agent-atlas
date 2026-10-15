@@ -1,0 +1,114 @@
+# Agent Atlas
+> A directory of AI tools and agent use cases, ranked for builders. Every tool is a real product you can go use today.
+
+Agent Atlas is a directory of AI tools and agent use cases for builders.
+Every tool listed is a real product with a live link, checked 2026-10-15.
+
+## Vibe coding & app building (https://agent-atlas.pages.dev/vibe-coding.html)
+- Cursor: The AI-first code editor most professional builders end up in. Deep repo awareness and multi-file edits. Best for Existing codebases, pro developers. Free tier, Pro ~$20/mo. https://cursor.com/
+- Claude Code: Terminal agent that reads your repo, runs commands and edits many files. Strongest on large, messy codebases. Best for Big refactors and architecture work. With Claude Pro/Max. https://claude.ai/code
+- GitHub Copilot: The low-friction entry point. Lives inside VS Code, JetBrains and Visual Studio. Best for Teams on mixed editors. Individual ~$10/mo. https://github.com/features/copilot
+- Windsurf: Cursor's closest rival, with a proactive agent and a flat monthly price. Best for Teams wanting predictable cost. Free tier, paid plans. https://windsurf.com/
+- Replit: Browser-based build-and-host. You describe it, the agent writes it and deploys it. Best for Fast prototypes you can ship. Free tier, paid plans. https://replit.com/
+- Lovable: Full-stack app builder aimed at non-technical founders. Best for Non-coders shipping a real app. Free tier, paid plans. https://lovable.dev/
+- Bolt.new: Prompt-to-full-stack in the browser with a generous free tier. Best for Rapid prototyping. Free tier, paid plans. https://bolt.new/
+- v0: Vercel's builder. Best balance of power and accessibility for non-technical builders. Best for UI-first app generation. Free tier, paid plans. https://v0.app/
+- Devin: Autonomous software engineer that works through tickets on its own. Best for Delegating whole tasks. Team plans. https://devin.ai/
+- Cline: Open-source coding agent that runs inside VS Code with your own API key. Best for Bring-your-own-model control. Free (you pay model usage). https://cline.bot/
+- Aider: Terminal pair-programmer that edits files in your local git repo and commits. Best for Git-native, scriptable workflows. Free (you pay model usage). https://aider.chat/
+- Gemini CLI: Google's open-source terminal agent with a large context window and a generous free tier. Best for Google-ecosystem developers. Free tier. https://github.com/google-gemini/gemini-cli
+- OpenAI Codex: Runs coding tasks in parallel in isolated cloud environments. Included with ChatGPT plans. Best for ChatGPT-first teams. With ChatGPT Plus+. https://chatgpt.com/codex
+- Zed: A very fast editor with AI built in, built in Rust. Best for Speed and pair programming. Free, paid AI plan. https://zed.dev/
+- Base44: Describe an app and get a working internal tool with a database attached. Best for Internal business tools. Free tier, paid plans. https://base44.com/
+- Rork: Vibe-coding for mobile — prompt a native phone app. Best for iOS/Android prototypes. Paid plans. https://rork.com/
+
+## AI agents & automation (https://agent-atlas.pages.dev/agents-automation.html)
+- Zapier: The widest connector library anywhere. If two apps exist, Zapier probably links them. Best for Connecting business apps. Free tier, paid plans. https://zapier.com/
+- Make: Visual scenario builder that handles complex branching far more cheaply than per-task pricing. Best for Multi-step automations. Free tier, paid plans. https://www.make.com/
+- n8n: Open-source workflow automation you can self-host, with native AI agent nodes. Best for Self-hosted, data-sensitive work. Free self-hosted. https://n8n.io/
+- Lindy: Email and meeting agents that act like a virtual teammate. Best for Inbox and scheduling agents. Free tier, paid plans. https://www.lindy.ai/
+- Gumloop: Drag-and-drop AI workflows that scrape, enrich and write on a schedule. Best for Data-in, content-out pipelines. Free tier, paid plans. https://www.gumloop.com/
+- CrewAI: Open-source framework for teams of agents with defined roles. Best for Developers building agent teams. Free open source. https://www.crewai.com/
+- LangGraph: Build stateful agents as graphs — the most controllable agent framework. Best for Production agent engineering. Free open source. https://www.langchain.com/langgraph
+- Manus: General-purpose agent that browses, researches and produces deliverables. Best for Delegating research tasks. Paid plans. https://manus.im/
+- Relevance AI: Build a workforce of AI agents with tools, then run them like staff. Best for Multi-agent business ops. Free tier, paid plans. https://relevanceai.com/
+
+## Video generation & editing (https://agent-atlas.pages.dev/video.html)
+- Runway: The most complete generative video suite, from text-to-video to editing. Best for Creative video production. Free tier, paid plans. https://runwayml.com/
+- Sora: OpenAI's text-to-video generator with strong physics and coherence. Best for Cinematic short clips. With ChatGPT plans. https://sora.com/
+- Google Veo: Google's video model, strong on realistic motion and audio pairing. Best for High-fidelity generation. With Google AI plans. https://deepmind.google/models/veo/
+- HeyGen: Talking-avatar videos from a script — the fastest route to a presenter video. Best for Avatar/VSL videos. Free tier, paid plans. https://www.heygen.com/
+- Synthesia: Enterprise avatar video with team collaboration and brand kits. Best for Training and corporate video. Paid plans. https://www.synthesia.io/
+- Descript: Edit video by editing the transcript. Removes filler words automatically. Best for Podcasts and talking-head edits. Free tier, paid plans. https://www.descript.com/
+- OpusClip: Turns one long video into a batch of vertical clips with captions. Best for Repurposing to Shorts/Reels. Free tier, paid plans. https://www.opus.pro/
+- Pictory: Script or URL in, captioned video out, using stock footage. Best for Faceless content at volume. Paid plans. https://pictory.ai/
+- CapCut: Free editor with strong AI tools and captions, mobile and desktop. Best for Social video editing. Free, paid Pro. https://www.capcut.com/
+
+## Voice & audio (https://agent-atlas.pages.dev/voice-audio.html)
+- ElevenLabs: The reference standard for lifelike AI voices and cloning. Best for Narration and voice agents. Free tier, paid plans. https://elevenlabs.io/
+- Deepgram: Fast, accurate speech-to-text and voice agent APIs built for developers. Best for Transcription at scale. Usage-based. https://deepgram.com/
+- Vapi: Build and deploy AI phone agents that book appointments and qualify leads. Best for Inbound/outbound call agents. Usage-based. https://vapi.ai/
+- Retell AI: Low-latency voice agents with an easy testing and monitoring console. Best for Production phone agents. Usage-based. https://www.retellai.com/
+- Bland AI: Phone agents focused on high-volume outbound calling. Best for Outbound call campaigns. Usage-based. https://www.bland.ai/
+- Suno: Full songs with vocals from a text prompt. Best for Music beds and jingles. Free tier, paid plans. https://suno.com/
+- Udio: High-fidelity AI music with fine control over style and structure. Best for Music production. Free tier, paid plans. https://www.udio.com/
+- Murf: Studio-grade AI voiceover with a large voice library and fine pacing control. Best for Narration and e-learning. Free tier, paid plans. https://murf.ai/
+
+## Image generation & design (https://agent-atlas.pages.dev/image-design.html)
+- Midjourney: Still the most distinctive visual style in AI imagery. Best for Artistic and editorial images. Paid plans. https://www.midjourney.com/
+- Ideogram: The best free option when the image needs readable text in it. Best for Logos, posters, typography. Free tier, paid plans. https://ideogram.ai/
+- Adobe Firefly: Commercially safe generation trained on licensed content, wired into Photoshop. Best for Brand-safe commercial work. Free tier, paid plans. https://www.adobe.com/products/firefly.html
+- Recraft: Vector-native generation — real SVG output for logos and icons. Best for Brand and icon systems. Free tier, paid plans. https://www.recraft.ai/
+- Gemini (Nano Banana): Google's image model, unusually good at editing an existing photo on request. Best for Photo editing and iteration. Free tier, paid plans. https://gemini.google.com/
+- Figma: The default design tool, now with AI to draft layouts and fill content. Best for UI and product design. Free tier, paid plans. https://www.figma.com/
+- Gamma: Decks and documents that generate from a prompt and look designed. Best for Pitch decks and one-pagers. Free tier, paid plans. https://gamma.app/
+- Framer: Design and publish a site in one place, with AI to draft pages. Best for Marketing sites. Free tier, paid plans. https://www.framer.com/
+
+## Writing & thinking (https://agent-atlas.pages.dev/writing.html)
+- Claude: The strongest general writing and analysis model for long documents. Best for Long-form and nuanced work. Free tier, paid plans. https://claude.ai/
+- ChatGPT: The default general assistant, with image, voice, code and agent modes. Best for Everything-in-one. Free tier, paid plans. https://chatgpt.com/
+- Grammarly: Line-level correction and tone control everywhere you type. Best for Polishing existing writing. Free tier, paid plans. https://www.grammarly.com/
+- Jasper: Marketing copy at scale, with brand voice and campaign workflows. Best for Marketing teams. Paid plans. https://www.jasper.ai/
+- Copy.ai: GTM workflows — prospecting, content and sales copy in one place. Best for Sales and marketing ops. Free tier, paid plans. https://www.copy.ai/
+
+## Research & search (https://agent-atlas.pages.dev/research.html)
+- Perplexity: Answers with citations you can check, which makes it usable for real research. Best for Fact-finding with sources. Free tier, paid plans. https://www.perplexity.ai/
+- NotebookLM: Upload your own documents and question them. Grounded only in your sources. Best for Understanding your own files. Free tier, paid plans. https://notebooklm.google.com/
+- Elicit: Systematic literature review — screens papers and extracts findings into a table. Best for Academic research. Free tier, paid plans. https://elicit.com/
+- Consensus: Answers questions from peer-reviewed studies only. Best for Evidence-based claims. Free tier, paid plans. https://consensus.app/
+- Exa: Search built for AI agents — semantic web search as an API. Best for Powering your own research agent. Usage-based. https://exa.ai/
+
+## Data & scraping (https://agent-atlas.pages.dev/data-scraping.html)
+- Firecrawl: Turns any website into clean markdown or structured JSON for your agent. Best for Feeding sites into LLMs. Free tier, paid plans. https://www.firecrawl.dev/
+- Apify: Thousands of ready-made scrapers plus a platform to run your own. Best for Structured web data. Free tier, paid plans. https://apify.com/
+- Browse AI: Point at a page, train a robot to extract fields, run it on a schedule. Best for No-code monitoring. Free tier, paid plans. https://www.browse.ai/
+
+## Sales & outreach (https://agent-atlas.pages.dev/sales-outreach.html)
+- Apollo: The largest B2B contact database with built-in sequencing. Best for Finding and emailing prospects. Free tier, paid plans. https://www.apollo.io/
+- Clay: Enrich and combine 100+ data sources to build hyper-targeted lists. Best for Personalisation at scale. Free tier, paid plans. https://www.clay.com/
+- Instantly: Cold email sending with inbox warm-up and deliverability tooling. Best for Cold email campaigns. Paid plans. https://instantly.ai/
+- Smartlead: Unlimited mailboxes and warm-up, popular with agencies. Best for Agency sending at volume. Paid plans. https://www.smartlead.ai/
+- lemlist: Multichannel sequences across email and LinkedIn. Best for Personalised multichannel. Free tier, paid plans. https://www.lemlist.com/
+
+## Code review & quality (https://agent-atlas.pages.dev/code-review.html)
+- CodeRabbit: Line-by-line PR review with suggested fixes, on every pull request. Best for Catching issues pre-merge. Free tier, paid plans. https://www.coderabbit.ai/
+- Greptile: Reviews code with full-repo context, so it catches cross-file bugs. Best for Large codebases. Paid plans. https://www.greptile.com/
+- Qodo: AI test generation and review focused on correctness. Best for Raising test coverage. Free tier, paid plans. https://www.qodo.ai/
+- Snyk: Finds and fixes security vulnerabilities in your dependencies and code. Best for Security scanning. Free tier, paid plans. https://snyk.io/
+
+## Support & chat agents (https://agent-atlas.pages.dev/support-chat.html)
+- Intercom Fin: Support agent that resolves tickets from your own help content. Best for Deflecting support volume. Per resolution. https://www.intercom.com/fin
+- Chatbase: Train a chatbot on your docs and embed it in minutes. Best for Docs-based support bots. Free tier, paid plans. https://www.chatbase.co/
+- Voiceflow: Design conversational agents for chat and voice in one canvas. Best for Complex conversation design. Free tier, paid plans. https://www.voiceflow.com/
+
+## Meetings & notes (https://agent-atlas.pages.dev/meetings-notes.html)
+- Fathom: Free meeting recorder that produces summaries and action items. Best for Sales call notes. Free tier, paid plans. https://fathom.video/
+- Otter: Live transcription and searchable meeting archive. Best for Transcripts you can search. Free tier, paid plans. https://otter.ai/
+- Granola: Takes your own rough notes and expands them using the meeting audio. Best for People who take their own notes. Free tier, paid plans. https://www.granola.ai/
+- Notion: Workspace with AI search and writing across everything you've stored. Best for Knowledge base plus AI. Free tier, paid plans. https://www.notion.com/
+
+## Contact
+- chuck@ca-jconsulting.com
+- 512-229-9199
+## Sponsorship
+- Featured entry from $99/month: https://agent-atlas.pages.dev/sponsor.html
