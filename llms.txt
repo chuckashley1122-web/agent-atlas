@@ -1,7 +1,7 @@
 # Agent Atlas
 > A directory of AI tools and agent use cases, ranked for builders. Every tool is a real product you can go use today.
 
-Agent Atlas is a directory of AI tools and agent use cases for builders.
+Agent Atlas is a directory of 79 AI tools across 12 use cases for builders.
 Every tool listed is a real product with a live link, checked 2026-10-15.
 
 ## Vibe coding & app building (https://agent-atlas.pages.dev/vibe-coding.html)
